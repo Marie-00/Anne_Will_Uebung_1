@@ -1,22 +1,22 @@
 id,name,party, sector,country,type
-UL,Ursula von der Leyen,CDU,Politik,Deutschland,1
-LK,Lars Klingbeil,SPD,Politik,Deutschland,1	
-NR,Norbert Röttgen,CDU,Politik,Deutschland,1	
+UL,Ursula von der Leyen,die CDU,Politik,Deutschland,1
+LK,Lars Klingbeil,die SPD,Politik,Deutschland,1	
+NR,Norbert Röttgen,die CDU,Politik,Deutschland,1	
 SW,Sahra Wagenknecht,Die Linke,Politik,Deutschland,1
 CS,Constanze Stelzenmüller,NA,Wissenschaft,USA,1
-CL,Christian Lindner,FDP,Politik,Deutschland,1	
+CL,Christian Lindner,die FDP,Politik,Deutschland,1	
 KS,Karl Schlögel,NA,Wissenschaft,Deutschland,1	
 LM,Ljudmyla Melnyk,NA,Politik,Ukraine,1
 KD,Kristina Dunz,NA,Journalismus,Deutschland,1        
 AB,Annalena Baerbock,Grüne,Politik,Deutschland,1	
 FT,Frans Timmermans,NA,Politik,Niederlande,1
 AM,Andrij Melnyk,NA,Politik,Ukraine,1
-AGL,Alexander Graf Lambsdorff ,FDP,Politik,Deutschland,1
+AGL,Alexander Graf Lambsdorff ,die FDP,Politik,Deutschland,1
 ER,Egon Ramms,NA,Militär,Deutschland,1
 RH,Robert Habeck,Grüne,Politik,Deutschland,1
 CM,Claudia Major,NA,Politik,Deutschland,1
 KP,Katja Petrowskaja,NA,Journalismus,Ukraine,1
-RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1
+RK,Roderich Kiesewetter,die CDU,Politik,Deutschland,1
 500,Folge 500,NA,NA,NA,2 			
 501,Folge 501,NA,NA,NA,2				
 502,Folge 502,NA,NA,NA,2				
