@@ -2,18 +2,18 @@ id,name,party, sector,country,type
 UL,Ursula von der Leyen,CDU,Politik,Deutschland,1
 LK,Lars Klingbeil,SPD,Politik,Deutschland,1
 NR,Norbert Röttgen,CDU,Politik,Deutschland,1
-SW,Sahra Wagenknecht,Die Linke,Politik,Deutschland,1
+SW,Sahra Wagenknecht,Linke,Politik,Deutschland,1
 CS,Constanze Stelzenmüller,NA,Wissenschaft,USA,1
 CL,Christian Lindner,FDP,Politik,Deutschland,1	
 KS,Karl Schlögel,NA,Wissenschaft,Deutschland,1	
 LM,Ljudmyla Melnyk,NA,Politik,Ukraine,1
 KD,Kristina Dunz,NA,Journalismus,Deutschland,1        
-AB,Annalena Baerbock,Grüne,Politik,Deutschland,1	
+AB,Annalena Baerbock,Gruene,Politik,Deutschland,1	
 FT,Frans Timmermans,NA,Politik,Niederlande,1
 AM,Andrij Melnyk,NA,Politik,Ukraine,1
 AGL,Alexander Graf Lambsdorff ,FDP,Politik,Deutschland,1
 ER,Egon Ramms,NA,Militär,Deutschland,1
-RH,Robert Habeck,Grüne,Politik,Deutschland,1
+RH,Robert Habeck,Gruene,Politik,Deutschland,1
 CM,Claudia Major,NA,Politik,Deutschland,1
 KP,Katja Petrowskaja,NA,Journalismus,Ukraine,1
 RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1
@@ -23,6 +23,6 @@ RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1
 503,Folge 503,NA,NA,NA,2
 SPD,SPD,SPD,NA,NA,3
 CDU,CDU,CDU,NA,NA,3
-Grüne,Grüne,Grüne,NA,NA,3
-Die Linke,Die Linke,Die Linke,NA,NA,3
+Gruene,Gruene,Gruene,NA,NA,3
+Linke,Linke,Linke,NA,NA,3
 FDP,FDP,FDP,NA,NA,3
