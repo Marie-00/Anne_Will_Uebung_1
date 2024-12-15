@@ -1,28 +1,28 @@
-id,name,party, sector,country
-UL,Ursula von der Leyen,CDU,Politik,Deutschland	
-LK,Lars Klingbeil,SPD,Politik,Deutschland	
-NR,Norbert Röttgen,CDU,Politik,Deutschland	
-SW,Sahra Wagenknecht,Linke,Politik,Deutschland	
-CS,Constanze Stelzenmüller,,Wissenschaft,USA
-CL,Christian Lindner,FDP,Politik,Deutschland	
-KS,Karl Schlögel,,Wissenschaft,Deutschland	
-LM,Ljudmyla Melnyk,,Politik,Ukraine
-KD,Kristina Dunz,,Journalismus,Deutschland        
-AB,Annalena Baerbock,Gruene,Politik,Deutschland	
-FT,Frans Timmermans,,Politik,Niederlande
-AM,Andrij Melnyk,,Politik,Ukraine
-AGL,Alexander Graf Lambsdorff ,FDP,Politik,Deutschland
-ER,Egon Ramms,,Militär,Deutschland
-RH,Robert Habeck,Gruene,Politik,Deutschland
-CM,Claudia Major,,Politik,Deutschland
-KP,Katja Petrowskaja,,Journalismus,Ukraine
-RK,Roderich Kiesewetter,CDU,Politik,Deutschland
-Gruene,Gruene,1,NA,NA
-CDU,CDU,2,NA,NA
-SPD,SPD,3,NA,NA
-FDP,FDP,4,NA,NA
-Linke,Linke,5,NA,NA
-500,500,NA,NA,NA
-501,501,NA,NA,NA
-502,502,NA,NA,NA
-503,503,NA,NA,NA
+id,name,party, sector,country,type
+UL,Ursula von der Leyen,CDU,Politik,Deutschland,1	
+LK,Lars Klingbeil,SPD,Politik,Deutschland,1	
+NR,Norbert Röttgen,CDU,Politik,Deutschland,1	
+SW,Sahra Wagenknecht,Linke,Politik,Deutschland,1	
+CS,Constanze Stelzenmüller,,Wissenschaft,USA,1
+CL,Christian Lindner,FDP,Politik,Deutschland,1	
+KS,Karl Schlögel,,Wissenschaft,Deutschland,1	
+LM,Ljudmyla Melnyk,,Politik,Ukraine,1
+KD,Kristina Dunz,,Journalismus,Deutschland,1        
+AB,Annalena Baerbock,Gruene,Politik,Deutschland,1	
+FT,Frans Timmermans,,Politik,Niederlande,1
+AM,Andrij Melnyk,,Politik,Ukraine,1
+AGL,Alexander Graf Lambsdorff ,FDP,Politik,Deutschland,1
+ER,Egon Ramms,,Militär,Deutschland,1
+RH,Robert Habeck,Gruene,Politik,Deutschland,1
+CM,Claudia Major,,Politik,Deutschland,1
+KP,Katja Petrowskaja,,Journalismus,Ukraine,1
+RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1
+Gruene,Gruene,1,NA,NA,2
+CDU,CDU,2,NA,NA,2
+SPD,SPD,3,NA,NA,2
+FDP,FDP,4,NA,NA,2
+Linke,Linke,5,NA,NA,2
+500,500,NA,NA,NA,3
+501,501,NA,NA,NA,3
+502,502,NA,NA,NA,3
+503,503,NA,NA,NA,3
