@@ -2,18 +2,27 @@ id,name,party, sector,country
 UL,Ursula von der Leyen,CDU,Politik,Deutschland	
 LK,Lars Klingbeil,SPD,Politik,Deutschland	
 NR,Norbert Röttgen,CDU,Politik,Deutschland	
-SW,Sahra Wagenknecht,Die Linke,Politik,Deutschland	
+SW,Sahra Wagenknecht,Linke,Politik,Deutschland	
 CS,Constanze Stelzenmüller,,Wissenschaft,USA
 CL,Christian Lindner,FDP,Politik,Deutschland	
 KS,Karl Schlögel,,Wissenschaft,Deutschland	
 LM,Ljudmyla Melnyk,,Politik,Ukraine
 KD,Kristina Dunz,,Journalismus,Deutschland        
-AB,Annalena Baerbock,Grüne,Politik,Deutschland	
+AB,Annalena Baerbock,Gruene,Politik,Deutschland	
 FT,Frans Timmermans,,Politik,Niederlande
 AM,Andrij Melnyk,,Politik,Ukraine
 AGL,Alexander Graf Lambsdorff ,FDP,Politik,Deutschland
 ER,Egon Ramms,,Militär,Deutschland
-RH,Robert Habeck,Grüne,Politik,Deutschland
+RH,Robert Habeck,Gruene,Politik,Deutschland
 CM,Claudia Major,,Politik,Deutschland
 KP,Katja Petrowskaja,,Journalismus,Ukraine
 RK,Roderich Kiesewetter,CDU,Politik,Deutschland
+Gruene,Gruene,1,NA,NA
+CDU,CDU,2,NA,NA
+SPD,SPD,3,NA,NA
+FDP,FDP,4,NA,NA
+Linke,Linke,5,NA,NA
+500,500,NA,NA,NA
+501,501,NA,NA,NA
+502,502,NA,NA,NA
+503,503,NA,NA,NA
