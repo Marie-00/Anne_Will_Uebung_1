@@ -1,28 +1,28 @@
-id,name,party, sector,country,type
-UL,Ursula von der Leyen,CDU,Politik,Deutschland,1
-LK,Lars Klingbeil,SPD,Politik,Deutschland,1	
-NR,Norbert Röttgen,CDU,Politik,Deutschland,1	
-SW,Sahra Wagenknecht,Die Linke,Politik,Deutschland,1
-CS,Constanze Stelzenmüller,NA,Wissenschaft,USA,1
-CL,Christian Lindner,FDP,Politik,Deutschland,1	
-KS,Karl Schlögel,NA,Wissenschaft,Deutschland,1	
-LM,Ljudmyla Melnyk,NA,Politik,Ukraine,1
-KD,Kristina Dunz,NA,Journalismus,Deutschland,1        
-AB,Annalena Baerbock,Grüne,Politik,Deutschland,1	
-FT,Frans Timmermans,NA,Politik,Niederlande,1
-AM,Andrij Melnyk,NA,Politik,Ukraine,1
-AGL,Alexander Graf Lambsdorff ,FDP,Politik,Deutschland,1
-ER,Egon Ramms,NA,Militär,Deutschland,1
-RH,Robert Habeck,Grüne,Politik,Deutschland,1
-CM,Claudia Major,NA,Politik,Deutschland,1
-KP,Katja Petrowskaja,NA,Journalismus,Ukraine,1
-RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1
-500,Folge 500,NA,NA,NA,2 			
-501,Folge 501,NA,NA,NA,2				
-502,Folge 502,NA,NA,NA,2				
-503,Folge 503,NA,NA,NA,2
-SPD,SPD,SPD,NA,NA,3
-CDU,CDU,CDU,NA,NA,3
-Gruene,Gruene,Grüne,NA,NA,3
-Linke,Linke,Linke,NA,NA,3
-FDP,FDP,FDP,NA,NA,3
+id,name,party, sector,country,type,color
+UL,Ursula von der Leyen,CDU,Politik,Deutschland,1,NA
+LK,Lars Klingbeil,SPD,Politik,Deutschland,1,NA	
+NR,Norbert Röttgen,CDU,Politik,Deutschland,1,NA	
+SW,Sahra Wagenknecht,Die Linke,Politik,Deutschland,1,NA
+CS,Constanze Stelzenmüller,NA,Wissenschaft,USA,1,NA
+CL,Christian Lindner,FDP,Politik,Deutschland,1,NA	
+KS,Karl Schlögel,NA,Wissenschaft,Deutschland,1,NA	
+LM,Ljudmyla Melnyk,NA,Politik,Ukraine,1,NA
+KD,Kristina Dunz,NA,Journalismus,Deutschland,1,NA        
+AB,Annalena Baerbock,Grüne,Politik,Deutschland,1,NA	
+FT,Frans Timmermans,NA,Politik,Niederlande,1,NA
+AM,Andrij Melnyk,NA,Politik,Ukraine,1,NA
+AGL,Alexander Graf Lambsdorff ,FDP,Politik,Deutschland,1,NA
+ER,Egon Ramms,NA,Militär,Deutschland,1,NA
+RH,Robert Habeck,Grüne,Politik,Deutschland,1,NA
+CM,Claudia Major,NA,Politik,Deutschland,1,NA
+KP,Katja Petrowskaja,NA,Journalismus,Ukraine,1,NA
+RK,Roderich Kiesewetter,CDU,Politik,Deutschland,1,NA
+500,Folge 500,NA,NA,NA,2,NA 			
+501,Folge 501,NA,NA,NA,2,NA				
+502,Folge 502,NA,NA,NA,2,NA				
+503,Folge 503,NA,NA,NA,2,NA
+SPD,SPD,SPD,NA,NA,3,1
+CDU,CDU,CDU,NA,NA,3,2
+Grüne,Grüne,Grüne,NA,NA,3,3
+Die Linke,Die Linke,Die Linke,NA,NA,3,4
+FDP,FDP,FDP,NA,NA,3,5
